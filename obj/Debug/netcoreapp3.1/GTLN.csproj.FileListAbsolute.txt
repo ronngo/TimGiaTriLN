@@ -1,0 +1,13 @@
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.exe
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.deps.json
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.runtimeconfig.json
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.runtimeconfig.dev.json
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.dll
+D:\baitap\GTLN\bin\Debug\netcoreapp3.1\GTLN.pdb
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.csprojAssemblyReference.cache
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.AssemblyInfoInputs.cache
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.AssemblyInfo.cs
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.csproj.CoreCompileInputs.cache
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.dll
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.pdb
+D:\baitap\GTLN\obj\Debug\netcoreapp3.1\GTLN.genruntimeconfig.cache
